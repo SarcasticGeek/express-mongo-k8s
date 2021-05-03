@@ -1,0 +1,8 @@
+## Tools
+- minikube start
+
+## startup
+- minikube service mongo-express-service
+
+## Setup
+- kubectl apply -f *.yaml
